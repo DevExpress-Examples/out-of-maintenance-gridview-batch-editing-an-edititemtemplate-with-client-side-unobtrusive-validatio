@@ -8,6 +8,9 @@
 * **[Index.cshtml](./CS/GridViewBatchEdit/Views/Home/Index.cshtml)**
 <!-- default file list end -->
 # GridView - Batch Editing - An EditItemTemplate with client-side unobtrusive validation 
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/t166450)**
+<!-- run online end -->
 
 
 This example is based  on <a href="https://www.devexpress.com/Support/Center/p/T115130">GridView - Batch Editing - A simple implementation of an EditItem template</a> and describes how to enable  client-side unobtrusive validation: <br><br>1) Wrap the GridView in a form:<br>
