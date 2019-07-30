@@ -9,7 +9,7 @@
 <!-- default file list end -->
 # GridView - Batch Editing - An EditItemTemplate with client-side unobtrusive validation 
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t166450)**
+**[[Run Online]](https://codecentral.devexpress.com/t166450/)**
 <!-- run online end -->
 
 
