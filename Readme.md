@@ -1,8 +1,3 @@
-<!-- default badges list -->
-![](https://img.shields.io/endpoint?url=https://codecentral.devexpress.com/api/v1/VersionRange/128549609/14.1.7%2B)
-[![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/T166450)
-[![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
-<!-- default badges end -->
 <!-- default file list -->
 *Files to look at*:
 
@@ -15,9 +10,6 @@
 * **[Index.cshtml](./CS/GridViewBatchEdit/Views/Home/Index.cshtml)**
 <!-- default file list end -->
 # GridView - Batch Editing - An EditItemTemplate with client-side unobtrusive validation 
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t166450)**
-<!-- run online end -->
 
 
 This example is based  on <a href="https://www.devexpress.com/Support/Center/p/T115130">GridView - Batch Editing - A simple implementation of an EditItem template</a> and describes how to enable  client-side unobtrusive validation: <br><br>1) Wrap the GridView in a form:<br>
